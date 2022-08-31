@@ -28,7 +28,7 @@
   "dependencies": {
     "commander": "^2.15.1",
     "http-proxy": "^1.17.0",
-    "mustache": "^2.2.1",
+    "mustache": "^3.2.1",
     "shell-quote": "^1.6.1"
   },
   "repository": {
